@@ -15,5 +15,21 @@
       <guid>https://shyndaliu.github.io/posts/main/</guid>
       <description>&lt;p&gt;Welcome to my blog:)&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Kuromi</title>
+      <link>https://shyndaliu.github.io/posts/kuromi/</link>
+      <pubDate>Fri, 20 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>https://shyndaliu.github.io/posts/kuromi/</guid>
+      <description>&lt;h2 id=&#34;who-is-that&#34;&gt;Who is that?&lt;/h2&gt;
+&lt;p&gt;Kuromi is one of the characters in Sanrio universe. Simply, Hello Kitty&amp;rsquo;s frined:3&lt;/p&gt;
+&lt;h3 id=&#34;heading&#34;&gt;🍓🍓🍓&lt;/h3&gt;
+&lt;p&gt;She looks like this:&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://shyndaliu.github.io/posts/kuromi/kuromi.jpg&#34; alt=&#34;kuromi&#34;  /&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;run-this-script&#34;&gt;Run this script&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;greeting&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Kunomi!&amp;#34;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;greeting&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
   </channel>
 </rss>
